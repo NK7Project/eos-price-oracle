@@ -2,7 +2,7 @@
 
 This is a simple service that can store information of different exchange rates in a Multi-Index Table on the EOS blockchain, where any developer can access the data.
 
-The oracle retrieves the exchange rates from different exchanges every 30 seconds, and then, update the information calling an action on the its smart contract.
+The oracle retrieves the exchange rates from different exchanges every 60 seconds, and then, update the information calling an action on the its smart contract.
 
 The smart contract has three actions:
 
